@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xue Tingkai@NUS</title>
+    <link>https://xuetingkai.github.io/</link>
+    <description>Recent content on Xue Tingkai@NUS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://xuetingkai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For fun</title>
+      <link>https://xuetingkai.github.io/for_fun/</link>
+      <pubDate>Fri, 30 Sep 2022 12:01:48 +0800</pubDate>
+      
+      <guid>https://xuetingkai.github.io/for_fun/</guid>
+      <description>This is for fun.</description>
+    </item>
+    
+    <item>
+      <title>Co-curricular</title>
+      <link>https://xuetingkai.github.io/co_curricular/index/</link>
+      <pubDate>Fri, 30 Sep 2022 11:58:49 +0800</pubDate>
+      
+      <guid>https://xuetingkai.github.io/co_curricular/index/</guid>
+      <description>This is Co-curricular</description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>https://xuetingkai.github.io/academics/</link>
+      <pubDate>Fri, 30 Sep 2022 11:57:18 +0800</pubDate>
+      
+      <guid>https://xuetingkai.github.io/academics/</guid>
+      <description>Academics - coming soon&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://xuetingkai.github.io/about/</link>
+      <pubDate>Wed, 28 Sep 2022 06:52:25 +0800</pubDate>
+      
+      <guid>https://xuetingkai.github.io/about/</guid>
+      <description>This is about</description>
+    </item>
+    
+  </channel>
+</rss>
