@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Xue Tingkai@NUS</title>
-    <link>https://xuetingkai.github.io/</link>
-    <description>Recent content on Xue Tingkai@NUS</description>
+    <title>Academics on Xue Tingkai@NUS</title>
+    <link>https://xuetingkai.github.io/academics/</link>
+    <description>Recent content in Academics on Xue Tingkai@NUS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 08:37:29 +0800</lastBuildDate><atom:link href="https://xuetingkai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 11:57:18 +0800</lastBuildDate><atom:link href="https://xuetingkai.github.io/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Before Matriculating</title>
       <link>https://xuetingkai.github.io/academics/before_matriculating/</link>
@@ -46,35 +46,6 @@ EG1311 Design and Make</description>
       <description>I have cleared this module under iBLOCS, which is a programme catered to those who have ORDed or are ORDing soon. At the end of this 6 month course, I cleared my CS1010E requirement and earned a letter grade which can be transferred over to my CAP.
 Content This module taught some basic programming concepts, such as scoping, loops and functions, using mostly Python and a bit of Java.
 Introduction to CS1010X &amp;amp; Basics of Python Functional Abstraction Good Abstraction and Introduction to Recursion Recursion, Iteration + Order of Growth Debugging Higher Order Function Data Abstraction Working with Sequences Searching and Sorting Multiple Representations Generic Operators Object Oriented Programming Dynamic Programming &amp;amp; Memoization, Exception Handling Introduction to Java Programming Object Oriented Programming with Java The content seems more difficult/heavy than the usual CS1010 courses, but we do have more time to learn too.</description>
-    </item>
-    
-    <item>
-      <title>For fun</title>
-      <link>https://xuetingkai.github.io/for_fun/</link>
-      <pubDate>Fri, 30 Sep 2022 12:01:48 +0800</pubDate>
-      
-      <guid>https://xuetingkai.github.io/for_fun/</guid>
-      <description>Coming soon&amp;hellip;&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Co-curricular</title>
-      <link>https://xuetingkai.github.io/co_curricular/index/</link>
-      <pubDate>Fri, 30 Sep 2022 11:58:49 +0800</pubDate>
-      
-      <guid>https://xuetingkai.github.io/co_curricular/index/</guid>
-      <description>Coming soon&amp;hellip;&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://xuetingkai.github.io/about/</link>
-      <pubDate>Wed, 28 Sep 2022 06:52:25 +0800</pubDate>
-      
-      <guid>https://xuetingkai.github.io/about/</guid>
-      <description>Hello.
-I am an undergraduate studying Mechanical Engineering (ME) at the National University of Singapore. Although I am studying ME, I am also interested in a lot of other fields, such as coding and pure Physics. I like to discuss these topics, so you can find me to have a chat.
-For co-curricular, I was involved in theatre. Back in high school, I was involved in various Chinese Drama performances for 5 years.</description>
     </item>
     
   </channel>
